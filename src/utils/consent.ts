@@ -5,8 +5,8 @@ export type ConsentData = {
   status?: 'accepted' | 'partial' | 'rejected';
 };
 
-const STORAGE_KEY = 'vacapp_consent';
-const COOKIE_KEY = 'vacapp_consent';
+const STORAGE_KEY = 'muusmart_consent';
+const COOKIE_KEY = 'muusmart_consent';
 
 function parse(json: string | null): ConsentData | null {
   if (!json) return null;

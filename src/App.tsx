@@ -18,7 +18,7 @@ import { getConsent, isAccepted, isRejected, setConsent } from "./utils/consent"
 function RedirectToApp({ path }: { path: string }) {
   useEffect(() => {
     // Cambia esta URL por la URL de tu app web
-    const appWebUrl = "https://vacappfrontend.netlify.app/auth"; // 🚨 CAMBIA ESTA URL
+    const appWebUrl = "https://muusmartty.netlify.app/login"; // 🚨 CAMBIA ESTA URL
     window.location.href = `${appWebUrl}${path}`;
   }, [path]);
 
@@ -26,7 +26,7 @@ function RedirectToApp({ path }: { path: string }) {
     <div className="min-h-screen bg-gradient-to-br from-light-gray to-pale-lime flex items-center justify-center">
       <div className="text-center">
         <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-forest-green mx-auto"></div>
-        <p className="mt-4 text-forest-green font-mulish">Redirigiendo a VacApp...</p>
+        <p className="mt-4 text-forest-green font-mulish">Redirigiendo a Muusmart...</p>
       </div>
     </div>
   );

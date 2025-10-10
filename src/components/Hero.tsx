@@ -11,7 +11,7 @@ export function Hero() {
                 <img 
                     src={hero} 
                     className='h-full w-full object-cover object-center' 
-                    alt="VacApp Hero"
+                    alt="Muusmart Hero"
                 />
                 <div className="absolute inset-0 bg-black/40" />
             </div>

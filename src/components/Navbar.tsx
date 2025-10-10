@@ -12,8 +12,8 @@ export function Navbar() {
     return (
         <nav className="bg-white/80 backdrop-blur-sm border-b border-forest-green/10 flex justify-between md:justify-between font-rokkitt text-forest-green items-center py-3 px-5 md:px-8 sticky top-0 z-50" >
             <Link to="/" className="text-2xl md:text-3xl lg:text-4xl font-bold select-none hover:scale-105 transition-transform duration-300">
-                <span className="text-lime-neon">Vac</span>
-                <span>App</span>
+                <span className="text-lime-neon">Muu</span>
+                <span>Smart</span>
             </Link>
             <div className='flex items-center gap-6'>
                 <ul className="hidden md:flex gap-8 font-mulish font-medium md:text-sm lg:text-base">
@@ -26,7 +26,7 @@ export function Navbar() {
                 {/* Auth Buttons - Desktop */}
                 <div className="hidden md:flex items-center gap-3">
                     <a 
-                        href="https://vacappfrontend.netlify.app/auth/login"
+                        href="https://muusmartty.netlify.app/login"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center gap-2 px-4 py-2 text-sm font-medium text-forest-green hover:text-lime-neon transition-all duration-300 rounded-lg hover:bg-lime-neon/10"
@@ -35,7 +35,7 @@ export function Navbar() {
                         {t('auth.login.title')}
                     </a>
                     <a 
-                        href="https://vacappfrontend.netlify.app/auth/register"
+                        href="https://muusmartty.netlify.app/register"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center gap-2 px-4 py-2 text-sm font-medium text-white bg-forest-green hover:bg-lime-neon hover:text-forest-green transition-all duration-300 rounded-lg transform hover:scale-105"
@@ -90,7 +90,7 @@ function Sidebar() {
                     {/* Mobile Auth Buttons */}
                     <div className="flex flex-col gap-3 pt-4 border-t border-forest-green/20">
                         <a 
-                            href="https://vacappfrontend.netlify.app/auth/login"
+                            href="https://muusmartty.netlify.app/login"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center gap-3 px-4 py-3 text-sm font-medium text-forest-green hover:text-lime-neon transition-all duration-300 rounded-lg hover:bg-lime-neon/10"
@@ -100,7 +100,7 @@ function Sidebar() {
                             {t('auth.login.title')}
                         </a>
                         <a 
-                            href="https://vacappfrontend.netlify.app/auth/register"
+                            href="https://muusmartty.netlify.app/register"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center gap-3 px-4 py-3 text-sm font-medium text-white bg-forest-green hover:bg-lime-neon hover:text-forest-green transition-all duration-300 rounded-lg"

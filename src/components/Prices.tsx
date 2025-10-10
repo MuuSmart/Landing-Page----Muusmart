@@ -43,7 +43,7 @@ export function Prices() {
           <p className="text-forest-green/70 mb-6 font-mulish">
             {t('prices.customDesc')}
           </p>
-          <button onClick={() => { window.location.href = 'https://vacappfrontend.netlify.app/auth/login'; }} className="bg-forest-green text-white px-8 py-3 rounded-full font-semibold hover:bg-lime-neon hover:text-forest-green transition-all duration-300 transform hover:scale-105 flex items-center gap-2 mx-auto">
+          <button onClick={() => { window.location.href = 'https://muusmartty.netlify.app/login'; }} className="bg-forest-green text-white px-8 py-3 rounded-full font-semibold hover:bg-lime-neon hover:text-forest-green transition-all duration-300 transform hover:scale-105 flex items-center gap-2 mx-auto">
             {t('prices.cta.enterprise')}
             <ArrowRight size={16} />
           </button>
@@ -143,10 +143,10 @@ function PriceCard({
         onClick={() => {
           if (index === 2) {
             // Enterprise -> login (contact sales)
-            window.location.href = 'https://vacappfrontend.netlify.app/auth/login';
+            window.location.href = 'https://muusmartty.netlify.app/login';
           } else {
             // Starter/Premium -> register
-            window.location.href = 'https://vacappfrontend.netlify.app/auth/register';
+            window.location.href = 'https://muusmartty.netlify.app/register';
           }
         }}
       >

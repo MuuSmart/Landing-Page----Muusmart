@@ -153,7 +153,7 @@ export function MobileApp() {
                             <div className="relative z-10 transform hover:scale-105 transition-transform duration-500">
                                 <img
                                     src={mockup}
-                                    alt="VacApp Mobile"
+                                    alt="Muusmart Mobile"
                                     className="w-full max-w-sm mx-auto object-contain drop-shadow-2xl"
                                 />
                                 

@@ -11,9 +11,9 @@
     },
     "aboutus": {
         "title": "About Us",
-        "description": "VacApp is a mobile application created for farmers and veterinarians in Peru. Our mission is to facilitate livestock management through an accessible platform, even for those without prior technological experience. From animal registration to report generation, VacApp is made for you.",
+        "description": "muusmart is a mobile application created for farmers and veterinarians in Peru. Our mission is to facilitate livestock management through an accessible platform, even for those without prior technological experience. From animal registration to report generation, muusmart is made for you.",
         "subtitle": "Connecting livestock tradition with technological solutions.",
-        "imageAlt": "Farmer using VacApp",
+        "imageAlt": "Farmer using Muusmart",
         "badge": "Technology in the field",
         "mission": {
             "title": "Our Mission",
@@ -25,7 +25,7 @@
         },
         "values": {
             "title": "Our Values",
-            "subtitle": "The principles that guide every decision at VacApp",
+            "subtitle": "The principles that guide every decision at Muusmart",
             "sustainability": {
                 "title": "Sustainability",
                 "description": "Technology that respects the environment and promotes responsible livestock practices."
@@ -50,7 +50,7 @@
         "subtitle": "Professional tools designed specifically for modern livestock management",
         "cta": {
             "title": "Optimize Your Livestock Production",
-            "description": "Join hundreds of farmers who already transformed their management with VacApp. Reduce costs, improve herd health, and increase productivity.",
+            "description": "Join hundreds of farmers who already transformed their management with Muusmart. Reduce costs, improve herd health, and increase productivity.",
             "buttons": {
                 "trial": "Start Free Trial",
                 "demo": "Watch Live Demo"
@@ -153,7 +153,7 @@
     },
     "mobileApp": {
         "title": "Download our app now",
-        "description": "Experience the full power of VacApp on your Android and iOS devices.",
+        "description": "Experience the full power of Muusmart on your Android and iOS devices.",
         "cards": {
             "offline": { "title": "Offline Access", "desc": "Work without connection and sync when you have internet" },
             "fast": { "title": "Fast & Efficient", "desc": "Interface optimized for daily field use" },
@@ -179,7 +179,7 @@
     },
     "testimonials": {
         "title": "What our users say",
-        "subtitle": "Over 500 farmers already trust VacApp to manage their operations",
+        "subtitle": "Over 500 farmers already trust Muusmart to manage their operations",
         "stats": {
             "farms": "Active Farms",
             "avgRating": "Average Rating",
@@ -190,23 +190,23 @@
             {
                 "name": "Carlos Mendoza",
                 "role": "Farmer - Cusco",
-                "text": "VacApp revolutionized my livestock management. Now I control 200 head of cattle from my phone and reduced mortality by 30%."
+                "text": "Muusmart revolutionized my livestock management. Now I control 200 head of cattle from my phone and reduced mortality by 30%."
             },
             {
                 "name": "María Torres",
                 "role": "Veterinarian - Arequipa", 
-                "text": "As a veterinarian, VacApp allows me to better track my patients. The automated reports are incredible."
+                "text": "As a veterinarian, Muusmart allows me to better track my patients. The automated reports are incredible."
             },
             {
                 "name": "Roberto Silva",
                 "role": "Livestock Company - Lima",
-                "text": "We manage 5 farms with VacApp. Real-time sync and inventory control saves us hours of daily work."
+                "text": "We manage 5 farms with Muusmart. Real-time sync and inventory control saves us hours of daily work."
             }
         ]
     },
     "callToAction": {
         "title": "Ready to digitize your ranch?",
-        "subtitle": "Join the livestock revolution. Start today and transform your management with VacApp.",
+        "subtitle": "Join the livestock revolution. Start today and transform your management with Muusmart.",
         "benefits": [
             "30-day free trial",
             "No long-term commitments",
@@ -227,7 +227,7 @@
         }
     },
     "footer": {
-        "description": "VacApp is the complete SaaS platform that digitalizes livestock management. Unifies farm, cattle, staff, and campaign management in one solution accessible from web and mobile.",
+        "description": "Muusmart is the complete SaaS platform that digitalizes livestock management. Unifies farm, cattle, staff, and campaign management in one solution accessible from web and mobile.",
         "links": {
             "title": "Quick Links",
             "about": "About Us",
@@ -243,11 +243,11 @@
             "terms": "Terms of Service",
             "support": "Support"
         },
-        "copyright": "© VacApp. All rights reserved."
+        "copyright": "© Muusmart. All rights reserved."
     },
     "termsModal": {
         "title": "Terms and Conditions",
-        "content": "Welcome to VacApp! By using our service, you accept the following terms and conditions...",
+        "content": "Welcome to Muusmart! By using our service, you accept the following terms and conditions...",
         "accept": "Accept and Continue"
     },
     "consent": {
@@ -268,7 +268,7 @@
         },
         "register": {
             "title": "Sign Up",
-            "subtitle": "Create a new account to start using VacApp",
+            "subtitle": "Create a new account to start using Muusmart",
             "button": "Sign Up",
             "hasAccount": "Already have an account?"
         },

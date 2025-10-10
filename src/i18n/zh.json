@@ -11,9 +11,9 @@
     },
     "aboutus": {
         "title": "关于我们",
-        "description": "VacApp是一款专为秘鲁牲畜饲养者和兽医创建的移动应用。我们的使命是通过一个易于使用的平台促进牲畜管理，即使是没有技术经验的人也能轻松使用。从动物登记到报告生成，VacApp是为您量身定制的。",
+        "description": "Muusmart是一款专为秘鲁牲畜饲养者和兽医创建的移动应用。我们的使命是通过一个易于使用的平台促进牲畜管理，即使是没有技术经验的人也能轻松使用。从动物登记到报告生成，Muusmart是为您量身定制的。",
         "subtitle": "我们将传统畜牧业与技术解决方案相连接。",
-        "imageAlt": "使用VacApp的农牧民",
+        "imageAlt": "使用Muusmart的农牧民",
         "badge": "科技走进田间",
         "mission": {
             "title": "我们的使命",
@@ -25,7 +25,7 @@
         },
         "values": {
             "title": "我们的价值观",
-            "subtitle": "引导 VacApp 每个决策的原则",
+            "subtitle": "引导 Muusmart 每个决策的原则",
             "sustainability": {
                 "title": "可持续性",
                 "description": "尊重环境并推动负责任的牧业实践的技术。"
@@ -50,7 +50,7 @@
         "subtitle": "专为现代牲畜管理设计的专业工具",
         "cta": {
             "title": "优化您的牲畜生产",
-            "description": "加入数百位已经用VacApp改变管理方式的农民。降低成本，改善牛群健康，提高生产力。",
+            "description": "加入数百位已经用Muusmart改变管理方式的农民。降低成本，改善牛群健康，提高生产力。",
             "buttons": {
                 "trial": "开始免费试用",
                 "demo": "观看实时演示"
@@ -153,7 +153,7 @@
     },
     "mobileApp": {
         "title": "立即下载我们的应用",
-        "description": "在Android和iOS设备上体验VacApp的全部功能。",
+        "description": "在Android和iOS设备上体验Muusmart的全部功能。",
         "cards": {
             "offline": { "title": "离线访问", "desc": "无网络也可使用，联网后自动同步" },
             "fast": { "title": "快速高效", "desc": "为日常田间使用优化的界面" },
@@ -179,7 +179,7 @@
     },
     "testimonials": {
         "title": "用户评价",
-        "subtitle": "已有500多名农民信任VacApp管理他们的运营",
+        "subtitle": "已有500多名农民信任Muusmart管理他们的运营",
         "stats": {
             "farms": "活跃农场",
             "avgRating": "平均评分",
@@ -190,23 +190,23 @@
             {
                 "name": "卡洛斯·门多萨",
                 "role": "牧场主 - 库斯科",
-                "text": "VacApp彻底改变了我的牲畜管理。现在我用手机控制200头牛，死亡率降低了30%。"
+                "text": "Muusmart彻底改变了我的牲畜管理。现在我用手机控制200头牛，死亡率降低了30%。"
             },
             {
                 "name": "玛丽亚·托雷斯",
                 "role": "兽医 - 阿雷基帕",
-                "text": "作为兽医，VacApp让我能更好地跟踪我的患者。自动报告功能非常棒。"
+                "text": "作为兽医，Muusmart让我能更好地跟踪我的患者。自动报告功能非常棒。"
             },
             {
                 "name": "罗伯托·席尔瓦", 
                 "role": "畜牧公司 - 利马",
-                "text": "我们用VacApp管理5个农场。实时同步和库存控制为我们节省了大量日常工作时间。"
+                "text": "我们用Muusmart管理5个农场。实时同步和库存控制为我们节省了大量日常工作时间。"
             }
         ]
     },
     "callToAction": {
         "title": "准备好数字化您的牧场了吗？",
-        "subtitle": "加入畜牧业革命。立即开始，用VacApp转变您的管理方式。",
+        "subtitle": "加入畜牧业革命。立即开始，用Muusmart转变您的管理方式。",
         "benefits": [
             "30天免费试用",
             "无长期承诺",
@@ -227,7 +227,7 @@
         }
     },
     "footer": {
-        "description": "VacApp是完整的SaaS平台，数字化畜牧管理。统一牧场管理、牛群、员工和活动在一个可从网页和移动端访问的解决方案中。",
+        "description": "Muusmart是完整的SaaS平台，数字化畜牧管理。统一牧场管理、牛群、员工和活动在一个可从网页和移动端访问的解决方案中。",
         "links": {
             "title": "快速链接",
             "about": "关于我们",
@@ -243,11 +243,11 @@
             "terms": "服务条款",
             "support": "技术支持"
         },
-        "copyright": "© VacApp. 保留所有权利。"
+        "copyright": "© Muusmart. 保留所有权利。"
     },
     "termsModal": {
         "title": "条款和条件",
-        "content": "欢迎使用VacApp！通过使用我们的服务，您同意以下条款和条件...",
+        "content": "欢迎使用Muusmart！通过使用我们的服务，您同意以下条款和条件...",
         "accept": "接受并继续"
     },
     "consent": {
@@ -268,7 +268,7 @@
         },
         "register": {
             "title": "注册",
-            "subtitle": "创建新账户开始使用VacApp",
+            "subtitle": "创建新账户开始使用Muusmart",
             "button": "注册",
             "hasAccount": "已有账户？"
         },

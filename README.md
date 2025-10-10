@@ -1,6 +1,6 @@
-# 🐄 VacApp - Landing Page
+# 🐄 Muusmart - Landing Page
 
-Una landing page moderna y responsiva para VacApp, la plataforma integral de gestión ganadera diseñada específicamente para ganaderos y veterinarios en Perú.
+Una landing page moderna y responsiva para Muusmart, la plataforma integral de gestión ganadera diseñada específicamente para ganaderos y veterinarios en Perú.
 
 ## 🌟 Características Principales
 
@@ -12,7 +12,7 @@ Una landing page moderna y responsiva para VacApp, la plataforma integral de ges
 
 ### 🔐 **Sistema de Autenticación Integrado**
 - Páginas dedicadas para Login y Registro con diseño glassmorphism
-- Integración con la aplicación web externa de VacApp
+- Integración con la aplicación web externa de Muusmart
 - Botones de navegación en el header para acceso rápido
 - Redirección automática a la plataforma principal
 
@@ -25,7 +25,7 @@ Una landing page moderna y responsiva para VacApp, la plataforma integral de ges
 ### 📱 **Componentes Interactivos**
 - **Hero Section**: Título dinámico con call-to-action prominente
 - **Features**: Características clave con iconos y descripciones atractivas
-- **About Us**: Misión, visión y valores de VacApp
+- **About Us**: Misión, visión y valores de Muusmart
 - **Testimonials**: Opiniones reales de usuarios con sistema de ratings
 - **Pricing**: Planes de suscripción con comparación de características
 - **Mobile App**: Sección de descarga para iOS y Android
@@ -68,10 +68,10 @@ Una landing page moderna y responsiva para VacApp, la plataforma integral de ges
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/1ASI0732-Grupo-3/Landing-Page----VacApp.git
+git clone https://github.com/1ASI0732-Grupo-3/Landing-Page----Muusmart.git
 
 # Navegar al directorio del proyecto
-cd Landing-Page----VacApp
+cd Landing-Page----Muusmart
 
 # Instalar dependencias
 npm install
@@ -184,7 +184,7 @@ Crea un archivo `.env` en la raíz del proyecto:
 
 ```env
 # URL de la aplicación web externa para redirección
-VITE_WEBAPP_URL=https://app.vacapp.com
+VITE_WEBAPP_URL=https://app.Muusmart.com
 
 # Configuración de i18n
 VITE_DEFAULT_LANGUAGE=es
@@ -235,12 +235,12 @@ npm run build
 
 ## 📄 **Licencia**
 
-Este proyecto es privado y pertenece a VacApp. Todos los derechos reservados.
+Este proyecto es privado y pertenece a Muusmart. Todos los derechos reservados.
 
 ## 👥 **Equipo**
 
-Desarrollado por el **Grupo 3 - 1ASI0732** para VacApp.
+Desarrollado por el **Grupo 3 - 1ASI0732** para Muusmart.
 
 ---
 
-**VacApp** - Transformando la gestión ganadera en Perú 🇵🇪
+**Muusmart** - Transformando la gestión ganadera en Perú 🇵🇪

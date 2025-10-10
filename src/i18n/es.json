@@ -11,9 +11,9 @@
     },
     "aboutus": {
         "title": "Nosotros",
-        "description": "VacApp es una aplicación móvil creada para ganaderos y veterinarios en Perú. Nuestra misión es facilitar el manejo ganadero a través de una plataforma accesible, incluso para aquellos sin experiencia tecnológica previa. Desde el registro de animales hasta la generación de reportes, VacApp está hecho para ti.",
+        "description": "Muusmart es una aplicación móvil creada para ganaderos y veterinarios en Perú. Nuestra misión es facilitar el manejo ganadero a través de una plataforma accesible, incluso para aquellos sin experiencia tecnológica previa. Desde el registro de animales hasta la generación de reportes, Muusmart está hecho para ti.",
         "subtitle": "Conectamos la tradición ganadera con soluciones tecnológicas.",
-        "imageAlt": "Ganadero usando VacApp",
+        "imageAlt": "Ganadero usando Muusmart",
         "badge": "Tecnología en el campo",
         "mission": {
             "title": "Nuestra Misión",
@@ -25,7 +25,7 @@
         },
         "values": {
             "title": "Nuestros Valores",
-            "subtitle": "Los principios que guían cada decisión en VacApp",
+            "subtitle": "Los principios que guían cada decisión en Muusmart",
             "sustainability": {
                 "title": "Sostenibilidad",
                 "description": "Tecnología que respeta el medio ambiente y promueve prácticas ganaderas responsables."
@@ -50,7 +50,7 @@
         "subtitle": "Herramientas profesionales diseñadas específicamente para la gestión ganadera moderna",
         "cta": {
             "title": "Optimiza tu Producción Ganadera",
-            "description": "Únete a cientos de ganaderos que ya transformaron su gestión con VacApp. Reduce costos, mejora la salud del ganado y aumenta tu productividad.",
+            "description": "Únete a cientos de ganaderos que ya transformaron su gestión con Muusmart. Reduce costos, mejora la salud del ganado y aumenta tu productividad.",
             "buttons": {
                 "trial": "Comenzar Prueba Gratuita",
                 "demo": "Ver Demo en Vivo"
@@ -153,7 +153,7 @@
     },
     "mobileApp": {
         "title": "Descarga nuestra app ahora",
-        "description": "Experimenta todo el poder de VacApp en tus dispositivos Android e iOS.",
+        "description": "Experimenta todo el poder de Muusmart en tus dispositivos Android e iOS.",
         "cards": {
             "offline": { "title": "Acceso Offline", "desc": "Trabaja sin conexión y sincroniza cuando tengas internet" },
             "fast": { "title": "Rápido & Eficiente", "desc": "Interfaz optimizada para uso diario en el campo" },
@@ -179,7 +179,7 @@
     },
     "testimonials": {
         "title": "Lo que dicen nuestros usuarios",
-        "subtitle": "Más de 500 ganaderos ya confían en VacApp para gestionar sus operaciones",
+        "subtitle": "Más de 500 ganaderos ya confían en Muusmart para gestionar sus operaciones",
         "stats": {
             "farms": "Granjas Activas",
             "avgRating": "Rating Promedio",
@@ -190,23 +190,23 @@
             {
                 "name": "Carlos Mendoza",
                 "role": "Ganadero - Cusco",
-                "text": "VacApp revolucionó mi gestión ganadera. Ahora controlo 200 cabezas de ganado desde mi celular y he reducido la mortalidad en un 30%."
+                "text": "Muusmart revolucionó mi gestión ganadera. Ahora controlo 200 cabezas de ganado desde mi celular y he reducido la mortalidad en un 30%."
             },
             {
                 "name": "María Torres",
                 "role": "Veterinaria - Arequipa", 
-                "text": "Como veterinaria, VacApp me permite dar un mejor seguimiento a mis pacientes. Los reportes automáticos son increíbles."
+                "text": "Como veterinaria, Muusmart me permite dar un mejor seguimiento a mis pacientes. Los reportes automáticos son increíbles."
             },
             {
                 "name": "Roberto Silva",
                 "role": "Empresa Ganadera - Lima",
-                "text": "Manejamos 5 establos con VacApp. La sincronización en tiempo real y el control de inventarios nos ahorra horas de trabajo diario."
+                "text": "Manejamos 5 establos con Muusmart. La sincronización en tiempo real y el control de inventarios nos ahorra horas de trabajo diario."
             }
         ]
     },
     "callToAction": {
         "title": "¿Listo para digitalizar tu rancho?",
-        "subtitle": "Únete a la revolución ganadera. Comienza hoy y transforma tu gestión con VacApp.",
+        "subtitle": "Únete a la revolución ganadera. Comienza hoy y transforma tu gestión con Muusmart.",
         "benefits": [
             "Prueba gratuita de 30 días",
             "Sin compromisos a largo plazo",
@@ -227,7 +227,7 @@
         }
     },
     "footer": {
-        "description": "VacApp es la plataforma SaaS completa que digitaliza el manejo ganadero. Unifica gestión de establos, bovinos, personal y campañas en una solución accesible desde web y móvil.",
+        "description": "Muusmart es la plataforma SaaS completa que digitaliza el manejo ganadero. Unifica gestión de establos, bovinos, personal y campañas en una solución accesible desde web y móvil.",
         "links": {
             "title": "Enlaces Rápidos",
             "about": "Nosotros",
@@ -243,11 +243,11 @@
             "terms": "Términos de Servicio",
             "support": "Soporte"
         },
-        "copyright": "© VacApp. Todos los derechos reservados."
+        "copyright": "© Muusmart. Todos los derechos reservados."
     },
     "termsModal": {
         "title": "Términos y Condiciones",
-        "content": "¡Bienvenido a VacApp! Al usar nuestro servicio, aceptas los siguientes términos y condiciones...",
+        "content": "¡Bienvenido a Muusmart! Al usar nuestro servicio, aceptas los siguientes términos y condiciones...",
         "accept": "Aceptar y Continuar"
     },
     "consent": {
@@ -268,7 +268,7 @@
         },
         "register": {
             "title": "Registrarse",
-            "subtitle": "Crea una nueva cuenta para comenzar a usar VacApp",
+            "subtitle": "Crea una nueva cuenta para comenzar a usar Muusmart",
             "button": "Registrarse",
             "hasAccount": "¿Ya tienes una cuenta?"
         },

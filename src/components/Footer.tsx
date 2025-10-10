@@ -10,13 +10,13 @@ export function Footer() {
             {/* Main Footer Content */}
             <div className="max-w-6xl mx-auto px-4 py-16">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-                    
-                    {/* VacApp Info */}
+
+                    {/* Muusmart Info */}
                     <div className="lg:col-span-2 space-y-6">
                         <div className="flex items-center gap-2">
                             <div className="text-3xl font-bold font-rokkitt">
-                                <span className="text-lime-neon">Vac</span>
-                                <span>App</span>
+                                <span className="text-lime-neon">Muus</span>
+                                <span>mart</span>
                             </div>
                             <Leaf className="text-lime-neon" size={24} />
                         </div>
@@ -78,8 +78,8 @@ export function Footer() {
                         <div className="space-y-3 font-mulish">
                             <div className="flex items-center gap-3">
                                 <Mail size={16} className="text-lime-neon flex-shrink-0" />
-                                <a href="mailto:contacto@vacapp.com" className="hover:text-lime-neon transition-colors">
-                                    contacto@vacapp.com
+                                <a href="mailto:contacto@Muusmart.com" className="hover:text-lime-neon transition-colors">
+                                    contacto@Muusmart.com
                                 </a>
                             </div>
                             <div className="flex items-center gap-3">
@@ -110,7 +110,7 @@ export function Footer() {
                         <span className="text-sm font-mulish text-white/70">Síguenos:</span>
                         <div className="flex gap-3">
                             <a 
-                                href="https://github.com/vacapp" 
+                                href="https://github.com/MuuSmart" 
                                 className="p-2 bg-white/10 rounded-full hover:bg-lime-neon hover:text-forest-green transition-all duration-300 transform hover:scale-110"
                                 target="_blank"
                                 rel="noopener noreferrer"
@@ -118,7 +118,7 @@ export function Footer() {
                                 <Github size={18} />
                             </a>
                             <a 
-                                href="https://linkedin.com/company/vacapp" 
+                                href="" 
                                 className="p-2 bg-white/10 rounded-full hover:bg-lime-neon hover:text-forest-green transition-all duration-300 transform hover:scale-110"
                                 target="_blank"
                                 rel="noopener noreferrer"
@@ -126,7 +126,7 @@ export function Footer() {
                                 <Linkedin size={18} />
                             </a>
                             <a 
-                                href="https://twitter.com/vacapp" 
+                                href="" 
                                 className="p-2 bg-white/10 rounded-full hover:bg-lime-neon hover:text-forest-green transition-all duration-300 transform hover:scale-110"
                                 target="_blank"
                                 rel="noopener noreferrer"
